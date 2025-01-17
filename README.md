@@ -1,1 +1,1 @@
-This are the lecture to study ML Lineal Regression
+These are the lecture to study ML Lineal Regression
