@@ -1,2 +1,2 @@
 # ML
-This are the lectures to study ML KMeans 
+These are the lectures to study ML KMeans 
