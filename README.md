@@ -1,1 +1,1 @@
-This is regression, classification and cross_validation class
+These are the lectures to study regression, classification and cross_validation
